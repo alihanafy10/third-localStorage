@@ -1,0 +1,18 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+div{
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
+select{
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
